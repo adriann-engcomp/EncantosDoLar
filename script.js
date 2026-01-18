@@ -12,3 +12,5 @@ document.querySelectorAll('.btn-comprar').forEach(btn => {
         console.log('Carrinho:', carrinho);
     });
 });
+
+
